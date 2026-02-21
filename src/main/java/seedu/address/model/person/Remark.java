@@ -60,4 +60,7 @@ public class Remark {
         return value.hashCode();
     }
 
+    public boolean isEmptyRemark() {
+        return value.isEmpty();
+    }
 }
