@@ -8,9 +8,9 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "ong-chee-how": "Ong Chee How",
-        "jane-doe": "Jane Doe",
+        "xiao-hui": "Xiao Hui",
         "ennaaya": "Ennaaya",
-        "jean-doe": "Jean Doe",
+        "james-chin": "James Chin",
         "haley-bong": "Haley Bong"
       },
       "headingKeywords": {}
@@ -152,8 +152,24 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/ixiahuo.md",
+      "title": "Xiao Hui's Project Portfolio Page",
+      "headings": {
+        "project-big-brother": "Project: Big Brother"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/mehxa.md",
       "title": "Ennaaya's Project Portfolio Page",
+      "headings": {
+        "project-big-brother": "Project: Big Brother"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/somebody-somewher.md",
+      "title": "James's Chin Project Portfolio Page",
       "headings": {
         "project-big-brother": "Project: Big Brother"
       },
