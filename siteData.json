@@ -8,7 +8,7 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "ong-chee-how": "Ong Chee How",
-        "xiao-hui": "Xiao Hui",
+        "jane-doe": "Jane Doe",
         "ennaaya": "Ennaaya",
         "jean-doe": "Jean Doe",
         "haley-bong": "Haley Bong"
@@ -146,14 +146,6 @@
     {
       "src": "team/haleycopter.md",
       "title": "Haley's Project Portfolio Page",
-      "headings": {
-        "project-big-brother": "Project: Big Brother"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "team/ixiahuo.md",
-      "title": "Xiao Hui's Project Portfolio Page",
       "headings": {
         "project-big-brother": "Project: Big Brother"
       },
