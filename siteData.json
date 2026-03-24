@@ -116,7 +116,7 @@
         "adding-a-new-contact-add": "Adding a new contact : add",
         "editing-an-existing-contact-edit": "Editing an existing contact : edit",
         "deleting-an-existing-contact-delete": "Deleting an existing contact : delete",
-        "locating-contacts-by-name-find": "Locating contacts by name: find",
+        "searching-contacts-by-criteria-find": "Searching contacts by criteria: find",
         "listing-all-contacts-list": "Listing all contacts : list",
         "adding-and-deleting-tags-of-a-contact-tag": "Adding and deleting tags of a contact: tag",
         "adding-certificates-cert-add": "Adding certificates : cert-add",
