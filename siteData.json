@@ -66,8 +66,12 @@
         "appendix-planned-enhancements": "Appendix: Planned Enhancements",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for Manual Testing",
         "launch-and-shutdown": "Launch and Shutdown",
+        "managing-employee-certificates": "Managing Employee Certificates",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "finding-and-filtering": "Finding and Filtering",
+        "managing-salaries": "Managing Salaries",
+        "undo-functionality": "Undo Functionality",
+        "data-persistence-and-reliability": "Data Persistence and Reliability"
       },
       "headingKeywords": {}
     },
